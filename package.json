@@ -1,5 +1,5 @@
 {
-  "name": "@voerro/vue-modal",
+  "name": "@dexp-io/vue-modal",
   "description": "A flexible & responsive modal component for Vue.js 2",
   "version": "1.4.0",
   "author": "Alexander Zavyalov <alex@voerro.com> (http://voerro.com)",
